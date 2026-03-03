@@ -11,7 +11,7 @@
         </a-layout-content>
       </a-layout>
       <a-layout-footer class="footer">
-        <a href="https://www.codefather.cn" target="_blank">云图库 by azl</a>
+        <div>云图库 by azl</div>
       </a-layout-footer>
     </a-layout>
   </div>
@@ -46,5 +46,6 @@ import GlobalSider from '@/components/GlobalSider.vue'
   background: #efefef;
   padding: 16px;
   text-align: center;
+  color: darkgray;
 }
 </style>
